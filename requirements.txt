@@ -1,0 +1,9 @@
+﻿transformers
+langchain
+langchain-community
+huggingface_hub
+accelerate
+langchain-huggingface
+streamlit
+pyngrok
+torch

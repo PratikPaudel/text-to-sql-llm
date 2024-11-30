@@ -2,7 +2,7 @@
 
 This project provides a natural language to SQL query converter using LLaMA 2 and Streamlit. Users can describe their query in plain English, and the system will generate the corresponding SQL query.
 
-![Demo](demo.gif)
+![Demo](text-to-sql.gif)
 
 ## Quick Demo
 Check out the demo.gif to see the application in action!

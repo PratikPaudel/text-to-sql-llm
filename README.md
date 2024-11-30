@@ -4,9 +4,6 @@ This project provides a natural language to SQL query converter using LLaMA 2 an
 
 ![Demo](text-to-sql.gif)
 
-## Quick Demo
-Check out the demo.gif to see the application in action!
-
 ## Setup Instructions
 
 ### Prerequisites
